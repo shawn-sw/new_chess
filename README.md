@@ -54,6 +54,7 @@ Full FEN strings are safely accepted by parsing the first field and ignoring the
 Build using CMake:
 
 ```bash
+mkdir build
 cd build
 cmake ..
 make
